@@ -1,0 +1,257 @@
+{
+  "updates": {
+    "firefox": {
+      "type": "security",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "lintian": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "curl": {
+      "type": "security",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "initramfs-tools": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "muffin": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "cinnamon-screensaver": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "pam": {
+      "type": "security",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "cinnamon-control-center": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "krb5": {
+      "type": "security",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "hypnotix": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "net-snmp": {
+      "type": "security",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "python-tz": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "bind9": {
+      "type": "security",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "openssh": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "samba": {
+      "type": "security",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "linux-meta": {
+      "type": "kernel",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "cinnamon-desktop": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "nemo": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "libfprint": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "glib2.0": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "xviewer": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "blueman": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "mint-themes": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "cyrus-sasl2": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "vim": {
+      "type": "security",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "warpinator": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "alsa-ucm-conf": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "mintstick": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "cinnamon-settings-daemon": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "libdrm": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "libinput": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "webkit2gtk": {
+      "type": "security",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "cinnamon": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "pipewire": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "xreader": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "python-apt": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "libxpm": {
+      "type": "security",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "setuptools": {
+      "type": "security",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "nautilus": {
+      "type": "security",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "ca-certificates-java": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "gnome-screenshot": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "linux-firmware": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "mintinstall": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "timeshift": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "slick-greeter": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "sudo": {
+      "type": "security",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "apport": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "sticky": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "libksba": {
+      "type": "security",
+      "since": "2023.02.07",
+      "days": 1
+    },
+    "mint-common": {
+      "type": "package",
+      "since": "2023.02.07",
+      "days": 1
+    }
+  },
+  "version": 1,
+  "checked": "2023.02.07",
+  "notified": "2023.02.02"
+}
